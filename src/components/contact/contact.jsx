@@ -6,13 +6,13 @@ import { AiOutlineInstagram } from "react-icons/ai";
 function Contact() {
     return (
         <div id="contact" className="container contact-container">
-            <h1>Contact Me</h1>
+            <h1>Contactame</h1>
         <div className="contact-links">
             <a href="https://www.youtube.com/channel/UCLP_1K47aSoE3jCIcwi_A4Q" className="contact youtube" target={"blank"}>
                 <AiOutlineYoutube className="icon" />
                 <h2> Youtube <span>SdX-97</span></h2>
             </a>
-            <a href="https://wa.link/bywzv3" className="contact whatsapp" target={"blank"}>
+            <a href="https://api.whatsapp.com/send?phone=593990344916&text=Hi" className="contact whatsapp" target={"blank"}>
                 <AiOutlineWhatsApp className="icon" />
                 <h2> Whatsapp <span>+593 99 034 4916</span></h2>
             </a>

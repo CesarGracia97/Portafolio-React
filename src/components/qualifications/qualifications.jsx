@@ -2,7 +2,7 @@ import "./qualifications.css";
 const Qualifications = () => {
     return (
         <div>
-            <span className="quali-text">My Qualifications</span>
+            <span className="quali-text">Mis Conocimientos</span>
             <div className="qualifications-container">
                 <div className="qualification">
                     <div className="content html"></div>
@@ -33,8 +33,8 @@ const Qualifications = () => {
                     <h1>C#</h1>
                 </div>
                 <div className="qualification">
-                    <div className="content kotlin"></div>
-                    <h1>Kotlin</h1>
+                    <div className="content flutter"></div>
+                    <h1>Flutter</h1>
                 </div>
             </div>
         </div>
