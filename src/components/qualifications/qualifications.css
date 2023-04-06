@@ -73,8 +73,8 @@
     background-size: cover;
     background-size: 66px;
   }
-  .qualifications-container .qualification .content.c-plus-plus {
-    background: rgba(255, 255, 255, 0.103) url(../props/c-plus-plus.png);
+  .qualifications-container .qualification .content.java{
+    background: rgba(255, 255, 255, 0.103) url(../props/java.png);
     background-position: center;
     background-size: cover;
     background-size: 66px;
@@ -86,7 +86,7 @@
     background-size: 66px;
   }
   .qualifications-container .qualification .content.flutter {
-    background: rgba(255, 255, 255, 0.103) url(../props/Flutter.png);
+    background: rgba(255, 255, 255, 0.103) url(../props/flutter.png);
     background-position: center;
     background-size: cover;
     background-size: 66px;

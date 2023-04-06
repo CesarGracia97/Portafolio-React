@@ -42,7 +42,18 @@
     font-size: 16px;
     font-weight: 100;
     color: var(--color-pri);
-    font-family: "Open Sans";
+    font-family: monospace;
     letter-spacing: 1px;
 }
-  
+
+.header-container-multiL{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 10px;
+}
+
+.multiL{
+    cursor: pointer;
+}

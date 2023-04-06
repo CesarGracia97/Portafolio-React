@@ -7,67 +7,53 @@ const Members = () => {
     <div className="member member-1">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">ING. Jose Luna</h1>
-          <h3 className="position">FrontEnd Dev - PPM</h3>
+          <h1 className="name">ING. Jose Luna Intriago</h1>
+          <h3 className="position">Frontend Developer - PPM</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://www.linkedin.com/in/josluna98/" className="contact-member" target={"blank"}>
             <span>Contactalo</span>
           </a>
         </div>
     </div>
-
       <div className="member member-2">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">ING. Jurgen Huerlo</h1>
-          <h3 className="position">FrontEnd Dev - PPM</h3>
+          <h1 className="name">ING. Oscar Vinueza Celi</h1>
+          <h3 className="position">Fullstack Software Developer - Avalith</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://www.linkedin.com/in/vios94/" className="contact-member" target={"blank"}>
             <span>Contactalo</span>
           </a>
         </div>
       </div>
-
       <div className="member member-3">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">ING. Oscar Vinueza</h1>
-          <h3 className="position">FullStacks Dev - Avalith</h3>
+          <h1 className="name">ING. Jurgen Huerlo Quintero</h1>
+          <h3 className="position">Fullstack Software Developer - PPM</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://www.linkedin.com/in/jurgenhq/" className="contact-member" target={"blank"}>
             <span>Contactalo</span>
           </a>
         </div>
       </div>
-
       <div className="member member-4">
         <div className="member-img"></div>
         <div className="member-info">
-          <h1 className="name">MGT. Juan Cacierra</h1>
-          <h3 className="position">Coor. Infraestructura TI - ESMETECH S.A.</h3>
+          <h1 className="name">MGT. Juan Cacierra Cavada</h1>
+          <h3 className="position">COORDINADOR DE INFRAESTRUCTURA T.I. - ESMETECH S.A.</h3>
           <h4 className="about">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus
-            maiores harum laborum vero recusandae? Cumque nam facere aspernatur
-            autem eius!
           </h4>
-          <a href="#contact" className="contact-member">
+          <a href="https://www.linkedin.com/in/juancasierra/" className="contact-member" target={"blank"}>
             <span>Contactalo</span>
           </a>
         </div>
       </div>
     </div>
+
   );
 };
 

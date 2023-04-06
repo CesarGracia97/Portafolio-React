@@ -25,8 +25,8 @@ const Qualifications = () => {
                     <h1>React</h1>
                 </div>
                 <div className="qualification">
-                    <div className="content c-plus-plus"></div>
-                    <h1>C++</h1>
+                    <div className="content java"></div>
+                    <h1>Java</h1>
                 </div>
                 <div className="qualification">
                     <div className="content c-sharp"></div>

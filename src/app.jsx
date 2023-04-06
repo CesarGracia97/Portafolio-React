@@ -5,6 +5,7 @@ import Contact from "./components/contact/contact";
 import Navbar from "./components/nav/nav";
 import Members from "./components/members/members";
 import Footer from "./components/footer/footer";
+import Experiences from "./components/experiences/experiences";
 
 function WebContent() {
     return(
@@ -15,6 +16,7 @@ function WebContent() {
             <Navbar />
             <Home />
             <About />
+            <Experiences />
             <Members />
             <Contact />
             <Footer />

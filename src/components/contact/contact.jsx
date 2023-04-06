@@ -7,7 +7,7 @@ function Contact() {
     return (
         <div id="contact" className="container contact-container">
             <h1>Contactame</h1>
-        <div className="contact-links">
+            <div className="contact-links">
             <a href="https://www.youtube.com/channel/UCLP_1K47aSoE3jCIcwi_A4Q" className="contact youtube" target={"blank"}>
                 <AiOutlineYoutube className="icon" />
                 <h2> Youtube <span>SdX-97</span></h2>
@@ -21,7 +21,8 @@ function Contact() {
                 <h2>Instagram <span>sag_do_cerox</span></h2>
             </a>
       </div>
-    </div>
+
+        </div>
     );
 }
 

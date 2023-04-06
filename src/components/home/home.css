@@ -103,7 +103,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(6) {
     position: absolute;
     transform: translateX(-150%) translateY(150%);
-    background: url(../props/Flutter.png);
+    background: url(../props/flutter.png);
     background-size: cover;
     background-position: center;
 }
@@ -111,7 +111,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(7) {
     position: absolute;
     transform: translateX(-210%);
-    background: url(../props/c-plus-plus.png);
+    background: url(../props/java.png);
     background-size: cover;
     background-position: center;
 }
