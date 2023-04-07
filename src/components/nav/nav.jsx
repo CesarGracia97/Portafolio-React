@@ -27,7 +27,7 @@ function Navbar() {
       </a>
       <a href="#footer">
         <BsArrowDownCircle className="icon" />
-      </a>
+      </a> 
       <a href="#language">
         <BsGlobeAmericas className="icon" />
       </a>

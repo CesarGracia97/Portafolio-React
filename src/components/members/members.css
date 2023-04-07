@@ -26,11 +26,42 @@
     padding: 20px;
     border-radius: 50px;
   }
-  .members-container .member .member-img {
+
+  .members-container .member .member-img-jose {
     height: 300px;
     width: 300px;
     border-radius: 40px;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/Jose.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 2px solid var(--color-sec-light);
+  }
+
+  .members-container .member .member-img-jurgen{
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background: rgb(5, 7, 37) url(../props/Jurgen.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 2px solid var(--color-sec-light);
+  }
+
+  .members-container .member .member-img-oscar{
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background: rgb(5, 7, 37) url(../props/Oscar.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 2px solid var(--color-sec-light);
+  }
+
+  .members-container .member .member-img-juan{
+    height: 300px;
+    width: 300px;
+    border-radius: 40px;
+    background: rgb(5, 7, 37) url(../props/Juan.png);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -101,11 +132,42 @@
       border-radius: 50px;
       backdrop-filter: blur(20px);
     }
-    .members-container .member .member-img {
+
+    .members-container .member .member-img-jose{
       height: 100px;
       width: 100px;
       border-radius: 50%;
-      background: rgb(5, 7, 37) url(../props/img3.jpg);
+      background: rgb(5, 7, 37) url(../props/Jose.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-jurgen{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Jurgen.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-oscar{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Oscar.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-juan{
+      height: 100px;
+      width: 100px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Juan.png);
       background-size: cover;
       background-position: center;
       border: 2px solid var(--color-sec-light);
@@ -143,7 +205,7 @@
       font-size: 25px;
       border-radius: 50px;
       transition: 0.1s ease;
-      position: absolute;
+      position: static;
       top: -55px;
       right: 10px;
 
@@ -174,11 +236,42 @@
       border-radius: 50px;
       backdrop-filter: blur(20px);
     }
-    .members-container .member .member-img {
+
+    .members-container .member .member-img-jose{
       height: 70px;
       width: 70px;
       border-radius: 50%;
-      background: rgb(5, 7, 37) url(../props/img3.jpg);
+      background: rgb(5, 7, 37) url(../props/Jose.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-jurgen{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Jurgen.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-oscar{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Oscar.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-juan{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Juan.png);
       background-size: cover;
       background-position: center;
       border: 2px solid var(--color-sec-light);
@@ -216,7 +309,7 @@
       font-size: 15px;
       border-radius: 50px;
       transition: 0.1s ease;
-      position: absolute;
+      position: static;
       top: -55px;
       right: 10px;
 
@@ -247,11 +340,41 @@
       border-radius: 50px;
       backdrop-filter: blur(20px);
     }
-    .members-container .member .member-img {
+    .members-container .member .member-img-jose {
       height: 70px;
       width: 70px;
       border-radius: 50%;
-      background: rgb(5, 7, 37) url(../props/img3.jpg);
+      background: rgb(5, 7, 37) url(../props/Jose.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-jurgen {
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Jurgen.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-oscar {
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Oscar.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-juan {
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Juan.png);
       background-size: cover;
       background-position: center;
       border: 2px solid var(--color-sec-light);
@@ -289,7 +412,7 @@
       font-size: 15px;
       border-radius: 50px;
       transition: 0.1s ease;
-      position: absolute;
+      position: static;
       top: -55px;
       right: 10px;
     }
@@ -320,11 +443,42 @@
       border-radius: 50px;
       backdrop-filter: blur(20px);
     }
-    .members-container .member .member-img {
+
+    .members-container .member .member-img-jose{
       height: 70px;
       width: 70px;
       border-radius: 50%;
-      background: rgb(5, 7, 37) url(../props/img3.jpg);
+      background: rgb(5, 7, 37) url(../props/Jose.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-jurgen{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Jurgen.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-oscar{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Oscar.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-juan{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Juan.png);
       background-size: cover;
       background-position: center;
       border: 2px solid var(--color-sec-light);
@@ -362,7 +516,7 @@
       font-size: 15px;
       border-radius: 50px;
       transition: 0.1s ease;
-      position: absolute;
+      position: static;
       top: -55px;
       right: 10px;
     }
@@ -393,11 +547,42 @@
       border-radius: 50px;
       backdrop-filter: blur(20px);
     }
-    .members-container .member .member-img {
+
+    .members-container .member .member-img-jose{
       height: 70px;
       width: 70px;
       border-radius: 50%;
-      background: rgb(5, 7, 37) url(../props/img3.jpg);
+      background: rgb(5, 7, 37) url(../props/Jose.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-jurgen{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Jurgen.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-oscar{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Oscar.jpg);
+      background-size: cover;
+      background-position: center;
+      border: 2px solid var(--color-sec-light);
+    }
+
+    .members-container .member .member-img-juan{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      background: rgb(5, 7, 37) url(../props/Juan.png);
       background-size: cover;
       background-position: center;
       border: 2px solid var(--color-sec-light);
@@ -435,7 +620,7 @@
       font-size: 15px;
       border-radius: 50px;
       transition: 0.1s ease;
-      position: absolute;
+      position: static;
       top: -55px;
       right: 5px;
     }

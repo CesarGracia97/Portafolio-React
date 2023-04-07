@@ -5,7 +5,7 @@ const Members = () => {
   <div id="members" className="container members-container">
     <h1 className="member-txt">Referencias</h1>
     <div className="member member-1">
-        <div className="member-img"></div>
+        <div className="member-img-jose"></div>
         <div className="member-info">
           <h1 className="name">ING. Jose Luna Intriago</h1>
           <h3 className="position">Frontend Developer - PPM</h3>
@@ -17,7 +17,7 @@ const Members = () => {
         </div>
     </div>
       <div className="member member-2">
-        <div className="member-img"></div>
+        <div className="member-img-oscar"></div>
         <div className="member-info">
           <h1 className="name">ING. Oscar Vinueza Celi</h1>
           <h3 className="position">Fullstack Software Developer - Avalith</h3>
@@ -29,7 +29,7 @@ const Members = () => {
         </div>
       </div>
       <div className="member member-3">
-        <div className="member-img"></div>
+        <div className="member-img-jurgen"></div>
         <div className="member-info">
           <h1 className="name">ING. Jurgen Huerlo Quintero</h1>
           <h3 className="position">Fullstack Software Developer - PPM</h3>
@@ -41,7 +41,7 @@ const Members = () => {
         </div>
       </div>
       <div className="member member-4">
-        <div className="member-img"></div>
+        <div className="member-img-juan"></div>
         <div className="member-info">
           <h1 className="name">MGT. Juan Cacierra Cavada</h1>
           <h3 className="position">COORDINADOR DE INFRAESTRUCTURA T.I. - ESMETECH S.A.</h3>
