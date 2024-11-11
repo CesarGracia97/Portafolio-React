@@ -1,11 +1,7 @@
 import "./nav.css";
 import { AiOutlineHome } from "react-icons/ai";
-import { AiOutlineUser } from "react-icons/ai";
-import { TiGroupOutline } from "react-icons/ti";
-import { BiMessageRoundedDots } from "react-icons/bi";
-import { BsArrowDownCircle } from "react-icons/bs";
-import { MdOutlineWorkOutline } from "react-icons/md"
-import  {BsGlobeAmericas} from "react-icons/bs"
+import { BiMessageRoundedDots, BiShoppingBag } from "react-icons/bi";
+import { BsArrowDownCircle, BsGlobeAmericas } from "react-icons/bs";
 
 function Navbar() {
   return (
@@ -13,14 +9,8 @@ function Navbar() {
       <a href="#home">
         <AiOutlineHome className="icon active-nav" />
       </a>
-      <a href="#about">
-        <AiOutlineUser className="icon" />
-      </a>
       <a href="#experiences">
-        <MdOutlineWorkOutline className="icon" />
-      </a>
-      <a href="#members">
-        <TiGroupOutline className="icon" />
+        <BiShoppingBag className="icon" />
       </a>
       <a href="#contact">
         <BiMessageRoundedDots className="icon" />

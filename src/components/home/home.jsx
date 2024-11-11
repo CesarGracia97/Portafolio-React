@@ -1,5 +1,5 @@
 import './home.css';
-import img from '../props/SdX.jpg';
+import img from '../props/2_img.jpg';
 import Buttons from '../button/button';
 import { BsMouse } from 'react-icons/bs';
 
@@ -23,21 +23,15 @@ function Home() {
 
       <a href='#footer' className='scroll-down'>
         <hr />
-        <h5>Scroll Down</h5>
-        <BsMouse className='scroll' />
+          <h5>Scroll Down</h5>
+          <BsMouse className='scroll' />
         <hr />
       </a>
 
       <h2>
-        <span>Sobre Mi</span> <br />
+        <span>Empresa</span> <br />
         <p>
-        Entusiasta, organizado, motivado y perspicaz, ese
-        soy yo. Soy una persona orientada hacia los
-        resultados y con excelentes dotes comunicativos,
-        también cuento con un vasto conocimiento en
-        sistemas digitales y tecnológicos. Busco siempre
-        mejorar mis habilidades, dispuesto a aprender y
-        adaptarme a lo que se necesite.
+          Ctrl + P diseño y publicidad se complace en saludarle y poner a su disposición nuestro catálogo de  promocionales 2023,😊 tenemos gran variedad de artículos como llaveros, esferos, tomatodos, cuadernos, agendas, además de una gama amplia en artículos ecológicos.  Responde SI. para recibir el catálogo en PDF.📝
         </p>
       </h2>
 

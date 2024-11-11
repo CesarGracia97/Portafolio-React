@@ -61,7 +61,7 @@
 }
   
 .home-container .logo .hover-show.active .circle:nth-child(1) {
-  background: url(../props/html.png);
+  background: url(../props/Agendas_Eco.svg);
   background-size: cover;
   background-position: center;
   position: absolute;
@@ -71,7 +71,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(2) {
     position: absolute;
     transform: translateX(150%) translateY(-150%);
-    background: url(../props/css.png);
+    background: url(../props/Agendas_Nor.svg);
     background-size: cover;
     background-position: center;
 }
@@ -79,7 +79,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(3) {
     position: absolute;
     transform: translateX(210%);
-    background: url(../props/js.jpg);
+    background: url(../props/Fundas.svg);
     background-size: cover;
     background-position: center;
 }
@@ -87,7 +87,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(4) {
     position: absolute;
     transform: translateX(150%) translateY(150%);
-    background: url(../props/bootstrap.png);
+    background: url(../props/Sublimacion.svg);
     background-size: cover;
     background-position: center;
 }
@@ -95,7 +95,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(5) {
     position: absolute;
     transform: translateY(210%);
-    background: url(../props/react.png);
+    background: url(../props/Tarjetas.svg);
     background-size: cover;
     background-position: center;
 }
@@ -103,7 +103,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(6) {
     position: absolute;
     transform: translateX(-150%) translateY(150%);
-    background: url(../props/flutter.png);
+    background: url(../props/Agendas_Pas.svg);
     background-size: cover;
     background-position: center;
 }
@@ -111,7 +111,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(7) {
     position: absolute;
     transform: translateX(-210%);
-    background: url(../props/java.png);
+    background: url(../props/Tazas_botes.svg);
     background-size: cover;
     background-position: center;
 }
@@ -119,7 +119,7 @@
 .home-container .logo .hover-show.active .circle:nth-child(8) {
     position: absolute;
     transform: translateX(-150%) translateY(-150%);
-    background: url(../props/c-sharp.png);
+    background: url(../props/Utiles.svg);
     background-size: cover;
     background-position: center;
 }
